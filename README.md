@@ -1,1 +1,0 @@
-# termuxsetup2
